@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #b98f8f ;
+    ;
+    text-align: center;
+    margin: 0;
+    padding: 0px;
+
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    background-color: #b98f8f ;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #775151;
+}
+div {
+    gap:50px;
+    border: 5px solid rgb(250, 250, 250);
+}
+footer{
+    background: #775151;
+    padding: 20px;
+}
